@@ -2,7 +2,7 @@ title: "Demo Textcat (Text Classification)"
 description: "A minimal demo textcat project for spaCy v3. The demo data comes from the [tutorials/textcat_docs_issues](https://github.com/explosion/projects/tree/v3/tutorials/textcat_docs_issues) project."
 # Variables can be referenced across the project.yml using ${vars.var_name}
 vars:
-  name: "textcat_demo2"
+  name: "textcat_demo8"
   # Supported languages: all except ja, ko, th, vi, and zh, which would require
   # custom tokenizer settings in config.cfg
   lang: "pt"

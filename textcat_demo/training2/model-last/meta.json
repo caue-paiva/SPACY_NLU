@@ -34,20 +34,20 @@
 
   ],
   "performance":{
-    "cats_score":0.8763466042,
+    "cats_score":0.8641276377,
     "cats_score_desc":"macro F",
     "cats_micro_p":0.8720930233,
     "cats_micro_r":0.8720930233,
     "cats_micro_f":0.8720930233,
-    "cats_macro_p":0.875,
-    "cats_macro_r":0.8780834915,
-    "cats_macro_f":0.8763466042,
-    "cats_macro_auc":0.9532044311,
+    "cats_macro_p":0.8819444444,
+    "cats_macro_r":0.8581593928,
+    "cats_macro_f":0.8641276377,
+    "cats_macro_auc":0.9777343604,
     "cats_f_per_type":{
       "pesquisa_web":{
-        "p":0.6666666667,
-        "r":0.7058823529,
-        "f":0.6857142857
+        "p":0.75,
+        "r":0.5294117647,
+        "f":0.6206896552
       },
       "verifica_resposta":{
         "p":1.0,
@@ -60,12 +60,12 @@
         "f":1.0
       },
       "chat_padrao":{
-        "p":0.8333333333,
-        "r":0.8064516129,
-        "f":0.8196721311
+        "p":0.7777777778,
+        "r":0.9032258065,
+        "f":0.8358208955
       }
     },
     "cats_macro_auc_per_type":0.0,
-    "textcat_loss":0.0000000004
+    "textcat_loss":0.0000000002
   }
 }

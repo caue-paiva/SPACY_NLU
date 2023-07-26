@@ -1,7 +1,7 @@
 import spacy
 import json 
 
-nlp = spacy.load("pt_textcat_demo2")
+nlp = spacy.load("pt_textcat_demo8") #problemas no NLU com o modelo não reconhecer "online" e "web" como coisas de pesquisa_web
 
 
 
