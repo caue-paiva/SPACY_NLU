@@ -1,3 +1,23 @@
+## Comentário projeto
+
+Esse repo usa a library de NLP spacy para criar um modelo simples de classificação de texto para rotear entre várias chains e ferramentas de uma aplicação com LLMs
+
+O modelo de linguagem é algo similar com o bag of words porém implementado com a arquitetura do Spacy 
+
+## project.YML
+
+Esse arquivo de YML é a arquitetura em High level do seu projeto de ML, setando coisas como treinamento em GPU/CPI, qual seram os dados de treinamento e teste, quais os arquivos de configuração do modelo.
+
+Nesse arquivo também estão listados os nomes do comandos para converter, treinar , fazer avaliação e fazer package do modelo agora pronto
+
+## /training2
+Esse folder contem os 2 modelos atuais do spacy, o model-best (melhor modelo treinado até agora) e o model-last (ultimo modelo treinado)
+
+
+
+
+
+
 <!-- SPACY PROJECT: AUTO-GENERATED DOCS START (do not remove) -->
 
 # 🪐 spaCy Project: Demo Textcat (Text Classification)
